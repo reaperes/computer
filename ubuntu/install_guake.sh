@@ -1,7 +1,7 @@
 #!/bin/sh
 # reference: https://github.com/Guake/guake
 
-sudo apt install guake
+sudo apt install guake -y
 # change short cuts
 # toggle F12 to Ctrl+`
 # new tab ctrl+shift+t to ctrl+t
